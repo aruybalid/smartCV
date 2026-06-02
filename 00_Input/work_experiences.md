@@ -8,3 +8,9 @@ Development of an experimental-numerical framework for the full-field identifica
 Competences: algorithm design, image processing, data analysis, (linear) regression, spectral decomposition, instrument design, feedback control, numerical simulation, micro-mechanical experimentation, microscopic imaging, supervising MSc.-students, teaching academic courses, scientific writing and presenting, managing a long-term project. 
 
 Experiences: experimental mechanics, multi-physics simulation, multi-scale modeling, digital image correlation (algorithm development), instrument design, Python tool development, MATLAB tool development, C++ MOOSE programming, nuclear fuel performance modeling, thin film mechanics, metrology system design and testing.
+
+Extensive experience with both computational mechanics, finite element analysis, digital image correlation, and physics-based surrogate model development, including algorithm design in all those technical domains. 
+
+Algorithm design is part of my daily job, and has been for about a decade. I do this in Matlab, Python, C++, and Linux (bash).
+
+Integrated LLM-based tooling into engineering workflows, including LLM integration into VSCode and structured folder-based automation systems to orchestrate complex development and analysis pipelines.
