@@ -9,8 +9,26 @@ Competences: algorithm design, image processing, data analysis, (linear) regress
 
 Experiences: experimental mechanics, multi-physics simulation, multi-scale modeling, digital image correlation (algorithm development), instrument design, Python tool development, MATLAB tool development, C++ MOOSE programming, nuclear fuel performance modeling, thin film mechanics, metrology system design and testing.
 
+Experience with advanced microscopy, like SEM, AFM, profilometry.
+
+Some experience with sample preparation for material science, like sputter coating.
+
+Experience with custom instrument design, based on piezoelectonic components and feedback control loops.
+
+Applications I've worked on include microelectronics, such as flexible OLEDs and nuclear materials.
+
 Extensive experience with both computational mechanics, finite element analysis, digital image correlation, and physics-based surrogate model development, including algorithm design in all those technical domains. 
 
 Algorithm design is part of my daily job, and has been for about a decade. I do this in Matlab, Python, C++, and Linux (bash).
 
 Integrated LLM-based tooling into engineering workflows, including LLM integration into VSCode and structured folder-based automation systems to orchestrate complex development and analysis pipelines.
+
+MSC Marc/Mentat Finite Element modeling/simulation experience.
+
+MOOSE/BISON model development and integration. Merged constitutive models into BISON framework. 
+
+Loss-of-Coolant Accident (LOCA) sceneario modeling with BISON.
+
+Nuclear fuel-cladding systems modeling with BISON: burst, ballooning of UO2-Zircaloy-4 fuel-cladding system.
+
+Large-scale UQ exercises with DAKOTA (Sandia National Labs) and BISON.

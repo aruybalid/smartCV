@@ -46,7 +46,7 @@
 
 Please provide submission status for each tailored application:
 - [ ] Job_001_Kairos_Power_Plant_Operations_Engineer: [ ] No Power Plant Operations experience
-- [x] Job_002_Rescale_Applications_Engineer_Agentic: Applied
+- [x] Job_002_Rescale_Applications_Engineer_Agentic: Applied. Edit: Invited for first interview on June 2nd, 2026 (1 day after applying).
 - [ ] Job_003_Rescale_Applications_Engineer_AI-Physics:  
 
 **Submission Details Required:**
