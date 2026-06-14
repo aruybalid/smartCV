@@ -27,8 +27,8 @@ MSC Marc/Mentat Finite Element modeling/simulation experience.
 
 MOOSE/BISON model development and integration. Merged constitutive models into BISON framework. 
 
-Loss-of-Coolant Accident (LOCA) sceneario modeling with BISON.
+Loss-of-Coolant Accident (LOCA) sceneario modeling with BISON, with mechanistic creep surrogate modeling of the cladding material.
 
-Nuclear fuel-cladding systems modeling with BISON: burst, ballooning of UO2-Zircaloy-4 fuel-cladding system.
+Nuclear fuel-cladding systems modeling with BISON: burst, ballooning of UO2-Zircaloy-4 fuel-cladding systems, but also HT9 and Grade 91 steel alloys.
 
 Large-scale UQ exercises with DAKOTA (Sandia National Labs) and BISON.

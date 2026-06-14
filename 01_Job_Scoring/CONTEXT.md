@@ -40,5 +40,4 @@ This module analyzes all job descriptions against the information in the master 
 - Cross-reference with master CV to avoid inflated scores
 - Cross-reference with `../00_Input/job_preferences.md` and `../00_Input/work_experiences.md`
 
----
-*Module Version: 1.0 | Scoring Framework: Skills-First Approach*
+Wait for further human instructions. Do not continue on your own with the next step.

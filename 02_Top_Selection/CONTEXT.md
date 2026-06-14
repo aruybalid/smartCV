@@ -46,5 +46,4 @@ This module guides the final selection of the top 3 job opportunities from the s
 - Create tailored application folders in `../03_Tailored_Applications/`
 - Begin customization using insights from individual score reports
 
----
-*Module Version: 1.0 | Focus: Strategic Selection Over Volume*
+Wait for further human instructions. Do not continue on your own with the next step.

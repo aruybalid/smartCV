@@ -56,6 +56,5 @@ text## Detailed Instructions
 3. Generate high-quality tailored CV + Cover Letter for each
 4. Create Tailoring_Notes.md for each job
 5. After completion, summarize what was created
-
----
-*Module Version: 1.0 | Goal: Maximum application quality with minimal manual editing*
+   
+Wait for further human instructions. Do not continue on your own with the next step.
