@@ -7,25 +7,24 @@ This module analyzes all job descriptions against the information in the master 
 
 ### Input
 - Job description files from `../00_Input/Job_Descriptions/`
-- Master CV files for skills/requirements matching `../00_Input/Master_CV.md`
+- Master CV files for skills/requirements matching
 - job preferences in `../00_Input/job_preferences.md`
 - work experiences in `../00_Input/work_experiences.md`
-- companies of interest in `../00_Input/companies_of_interest.md`
 
 ### Output
 1. `All_Jobs_Scoring_Report.md` - Consolidated ranked report
 2. Individual score files in `Individual_Job_Scores/` - Detailed per-job analysis
 
 ## Scoring Criteria (Recommended Weights)
-- **Skills Match (35%)**: Technical skills, tools, languages alignment
+- **Skills Match (40%)**: Technical skills, tools, languages alignment
 - **Experience Level (25%)**: Years required vs. your experience
 - **Role Responsibilities (20%)**: Day-to-day duties alignment
 - **Company/Industry Fit (10%)**: Sector, culture, values alignment
-- **Location/Remote (10%)**: Work arrangement preferences
+- **Location/Remote (5%)**: Work arrangement preferences
 
 ## Instructions
-1. Process each job description individually, and match against the master CV, job preferences, work experience, and companies of interest in the ``../00_Input/`` folder.
-2. Generate detailed score for each job description first
+1. Process each job description individually
+2. Generate detailed score file for each job first
 3. Aggregate results into the master scoring report
 4. Rank jobs from highest to lowest overall match score
 5. Highlight key strengths and gaps for each opportunity

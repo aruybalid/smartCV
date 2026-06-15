@@ -41,4 +41,4 @@ LLM-integration in workflows, including using agentic folder structuring.
 - Programming: Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB, C++ (MOOSE/BISON framework), Linux/bash scripting
 - Scientific Computing & ML: Surrogate modeling, physics-informed machine learning, multi-physics simulation, large-scale dataset curation & ablation studies, inverse optimization, uncertainty quantification, geometry processing
 - Software Development: Custom tool & pipeline development, workflow automation, Python-to-C++ integration, production-grade code, verification & validation, modular design
-- Domain Expertise: Computational mechanics,  CAE data workflows, continuum mechanics, experimental-numerical frameworks, digital image correlation, nuclear materials modeling
+- Domain Expertise: Computational mechanics, continuum mechanics, experimental-numerical frameworks (IDIC), CAD/CAE data workflows, nuclear materials modeling
