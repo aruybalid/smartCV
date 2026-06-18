@@ -18,6 +18,7 @@ This pipeline automates and optimizes the job application process by scoring opp
    - Recommended naming: `Company_Role_YYYYMMDD.txt`
 4. Add `job_preferences.md` - job preferences to consider (salary, full-time, etc.)
 5. Add `work_experience.md` - more information on past work experience for consideration (besides CV content)
+6. Add `companies_of_interest.md` - some examples of interesing companies to cross-reference against in job descriptions
 
 ### Step 2: Job Analysis & Scoring (01_Job_Scoring/)
 1. Run your analysis script/tool on all jobs in `Job_Descriptions/`

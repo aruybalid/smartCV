@@ -76,11 +76,23 @@ Mentored bachelor student teams on engineering case studies, supporting balanced
 | 2006 – 2010 | B.Sc. Mechanical Engineering | |
 | 2000 – 2006 | VWO | Research-oriented secondary education, St.-Janscollege, Hoensbroek, The Netherlands |
 
-##  Technical Skills:
-- **Programming:** Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB, C++ (MOOSE/BISON framework), Linux/bash scripting
-- **Scientific Computing**: Surrogate modeling, physics-informed machine learning, multi-physics simulation, large-scale dataset curation & ablation studies, inverse optimization, uncertainty quantification, geometry processing
-- **Software Development**: Custom CAE tool & pipeline development, workflow automation, Python-to-C++ integration, production-grade code, verification & validation, modular design. 
-- **Domain Expertise**: Computational mechanics,  CAE data workflows, continuum mechanics, experimental-numerical frameworks, digital image correlation, nuclear materials modeling
+### Technical Skills
+
+- **Programming & Software Tools**: Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB, C++, Linux/bash scripting, SLURM (HPC), MSC Marc/Mentat, Paraview, LLM-assisted development (Continue.dev in VS Code) 
+- **Scientific Computing & Modeling**:Physics-based surrogate modeling, reduced-order modeling, spectral methods (FFT), finite element method (FEM), sparse linear solvers and regression, large-scale dataset curation & ablation studies, inverse optimization, uncertainty quantification, feature engineering  
+- **Software Development**: Custom CAE tool & pipeline development, workflow automation, interactive Python tooling (GUI), Python-to-C++ integration, production-grade code development, modular design, Git 
+- **Domain Expertise**: Computational mechanics, multi-scale & multi-physics modeling, continuum mechanics, viscoplasticity and creep modeling, cohesive zone and interface mechanics, plasticity and dislocation mechanics 
+- **Technical Approaches**: In-situ small-scale mechanical testing, high-resolution microscopy (SEM, SPM, optical profilometry), Digital Image Correlation (IDIC), experimental-numerical frameworks 
+---
+
+### Technical Skills
+
+### Technical Skills  
+- **Programming**: Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB, C++ (MOOSE/BISON framework), Linux/bash scripting, SLURM (HPC).  
+- **Scientific Computing & Modeling**: Physics-based surrogate modeling, reduced-order modeling, spectral methods (FFT), finite element method (FEM), sparse linear solvers and regression, large-scale dataset curation & ablation studies, inverse optimization, uncertainty quantification, feature engineering, dimensionality reduction.  
+- **Software Development**: Custom CAE tool & pipeline development, workflow automation, interactive Python tooling (GUI), Python-to-C++ integration, production-grade code development, modular design.  
+- **Domain Expertise**: Computational mechanics, multi-scale & multi-physics modeling, continuum mechanics, nuclear materials & fuel performance modeling, cohesive zone modeling.  
+- **Technical Approaches**: In-situ small-scale mechanical testing, high-resolution microscopy (SEM, SPM, optical profilometry), Digital Image Correlation (IDIC), experimental-numerical frameworks.  
   
 ## Selected Journal Publications (Peer-Reviewed)
 

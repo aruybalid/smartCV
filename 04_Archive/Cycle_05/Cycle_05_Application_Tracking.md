@@ -51,7 +51,7 @@
 | Company | Role | Submission Date | Method | Status | Notes |
 |---------|------|-----------------|--------|--------|-------|
 | **NVIDIA** | Sr. Software Developer (Python Numerical Computing) | **June 15, 2026** | Online application portal | **Submitted** | Tailored CV and cover letter submitted |
-| **Microsoft** | Data Research Engineer (Multimodal AI) | **June 15, 2026** | Online application portal | **Submitted** | Tailored CV and cover letter submitted; ABQ hybrid confirmed acceptable |
+| **Microsoft** | Data Research Engineer (Multimodal AI) | **June 15, 2026** | Online application portal | **Rejected** June 17th | Tailored CV and cover letter submitted; ABQ hybrid confirmed acceptable |
 | **Foundation EGI** | Research Scientist (AI + Simulation) | **June 15, 2026** | Online application portal | **Submitted** | Tailored CV and cover letter submitted; pay range pending verification |
 | PhysicsX | Research Scientist (AI Physics Simulation) | — | — | Not yet submitted | Top candidate; awaiting submission decision |
 | — | — | — | — | — | — |
