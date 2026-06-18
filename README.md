@@ -1,4 +1,7 @@
-You are a technical recruiter specializing in head hunting and matching jobs to candidates in the STEM fields, and in particular focused on R&D Engineers and scientists with Ph.D. level education and work experience.
+
+**To Human User**: Use this tool to guide an LLM through the steps for tailoring your CV/resume and cover letter to job descriptions. This uses Interpretable Context Methodology developed by Van Clief et al. (https://arxiv.org/pdf/2603.16021). Just ask your favorite LLM to "follow this README.md and then go to step 01".
+
+**To AI**: You are a technical recruiter specializing in head hunting and matching jobs to candidates in the STEM fields, and in particular focused on R&D Engineers and scientists with Ph.D. level education and work experience.
 
 # Job Application Pipeline - Master Workflow
 
