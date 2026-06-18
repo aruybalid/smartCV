@@ -1,7 +1,4 @@
 # Curriculum Vitae
-
-**Andre Paul Ruybalid, Ph.D. | M.Sc. | B.Sc.**
-
 Computational Mechanics Engineer with a Ph.D. in Computational & Experimental Mechanics, specializing in finite element analysis (FEA), multi-scale modeling, and experimental-numerical frameworks for microelectronics and advanced materials. Proven ability to develop simulation-driven solutions for characterizing mechanical behavior, identifying failure mechanisms, and supporting design optimization and reliability improvement. Strong background in semiconductor applications, thin-film mechanics, interfacial adhesion, and custom instrumentation. 
 
 ## Personalia
