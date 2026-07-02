@@ -1,5 +1,5 @@
 # Curriculum Vitae
-Computational Mechanics Engineer with a Ph.D. in Computational & Experimental Mechanics, specializing in finite element analysis (FEA), multi-scale modeling, and experimental-numerical frameworks for microelectronics and advanced materials. Proven ability to develop simulation-driven solutions for characterizing mechanical behavior, identifying failure mechanisms, and supporting design optimization and reliability improvement. Strong background in semiconductor applications, thin-film mechanics, interfacial adhesion, and custom instrumentation. 
+Computational Mechanics Engineer with a Ph.D. in Computational & Experimental Mechanics.
 
 ## Personalia
 
@@ -23,10 +23,6 @@ Computational Mechanics Engineer with a Ph.D. in Computational & Experimental Me
 bridge microscale material behavior to engineering-scale predictions for nuclear fuel 
 performance analysis. 
 - Built and validated advanced material models in finite element simulation tools. 
-- Created Python-based automation tools for large-scale simulation campaigns, data 
-curation, and post-processing — significantly accelerating analysis turnaround time 
-and improving reproducibility.
-
 ### 2021 – 2023: Postdoctoral Researcher, Los Alamos National Laboratory
 **Lab**
 
@@ -38,12 +34,7 @@ simulation data.
 **Lab**
 
 Developed and maintained complex numerical algorithms and custom MATLAB 
-tooling for high-precision nanoscale defect detection and geometry analysis on DUV 
-lithography reticles. Designed, validated, and optimized metrology and data 
-processing pipelines through large-scale data analysis and cleanroom 
-experimentation, delivering production-ready solutions under tight deadlines in cross-
-functional industrial environments.
-
+tooling.
 ### 2013 – 2019: PhD Researcher, Eindhoven University of Technology
 **University**
 
